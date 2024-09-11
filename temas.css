@@ -1,0 +1,48 @@
+.contenedor{
+
+    width: 100%;
+    height: 1200px;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.encabezado{
+    width:100% ;
+    height: 200px; ;
+    background-color: aquamarine;
+    color: rgb(223, 28, 28);
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.biologia{
+    width:100% ;
+    height: 400px;;
+    background-color: blueviolet;
+
+}
+.quimica{
+    width:100% ;
+    height: 400px;;
+    background-color: rgb(211, 89, 181);
+
+}
+.ingles{
+    width:100% ;
+    height: 400px;;
+    background-color: rgb(241, 235, 116);
+
+}
+.tecnologia{
+    width:100% ;
+    height: 400px;;
+    background-color: rgb(235, 124, 130);
+
+}
+.matematicas{
+    width:100% ;
+    height: 400px;;
+    background-color: rgb(129, 166, 246);
+
+}
